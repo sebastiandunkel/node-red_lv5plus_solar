@@ -1,0 +1,12 @@
+{
+    "name": "LV5plus",
+    "description": "Flows connecting to Predix Timeseries & viewing LV5+ relevant data",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_lv5plus.json",
+            "credentialsFile": "flows_lv5plus_cred.json"
+        }
+    }
+}
